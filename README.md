@@ -1,4 +1,4 @@
-## Estou no Git para anexar e guardar projetos. Minhas contribuições se mantém privadas.  
+## 🇧🇷 I'm using Git to attach projects. My repository is private.
 
 <!--START_SECTION:waka-->
 
