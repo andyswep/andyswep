@@ -1,16 +1,13 @@
-## Hi there 👋
+## USO DE RASCUNHO PARA SALVAR MEUS PROJETOS.
 
-<!--
-**andyswep/andyswep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--START_SECTION:waka-->
 
-Here are some ideas to get you started:
+```txt
+TypeScript   16 hrs 38 mins  █████████████████████▒░░░   84.87 %
+JSON         1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Other        1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--END_SECTION:waka-->
