@@ -1,3 +1,5 @@
+## Estou no Git para anexar e guardar projetos. Minhas contribuições se mantém privadas.  
+
 <!--START_SECTION:waka-->
 
 ```txt
